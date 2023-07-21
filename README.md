@@ -42,5 +42,3 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
-
-![snake gif](https://github.com/jonatastb/jonatastb/blob/output/github-contribution-grid-snake.gif)
