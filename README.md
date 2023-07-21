@@ -17,10 +17,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/jonatastb">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatastb&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatastb&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatastb&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/jonatastb">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatastb&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
 </div>
 
