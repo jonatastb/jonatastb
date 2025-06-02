@@ -18,3 +18,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatastb&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
 </div>
+<h3 align="center">Portfolio 💼</h3>
+<a href="https://jonatastb.github.io/portfolio-jonatas" align="center">
+    My Portfolio
+</a>
