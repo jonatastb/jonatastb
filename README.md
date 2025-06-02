@@ -20,6 +20,6 @@
 </div>
 
 <h3 align="center">Portfolio 💼</h3>
-<a href="https://jonatastb.github.io/portfolio-jonatas" text-align="center" color="purple">
+<a href="https://jonatastb.github.io/portfolio-jonatas" style="text-align: 'center'; color: 'purple'">
    https://jonatastb.github.io/portfolio-jonatas
 </a>
