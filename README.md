@@ -19,7 +19,8 @@
   </a>
 </div>
 
-<h3 align="center">Portfolio 💼</h3>
-<a href="https://jonatastb.github.io/portfolio-jonatas" style="text-align: 'center'; color: 'purple'">
-   https://jonatastb.github.io/portfolio-jonatas
-</a>
+<p align="center">
+  <a href="https://jonatastb.github.io/portfolio-jonatas">
+    🌐 Meu portfólio: jonatastb.github.io/portfolio-jonatas
+  </a>
+</p>
