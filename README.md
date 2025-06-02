@@ -19,6 +19,7 @@
   </a>
 </div>
 
-<a href="https://jonatastb.github.io/portfolio-jonatas" align="center">
-    <h3 align="center">Portfolio 💼</h3>
+<h3 align="center">Portfolio 💼</h3>
+<a href="https://jonatastb.github.io/portfolio-jonatas" align="center" color="purple">
+   https://jonatastb.github.io/portfolio-jonatas
 </a>
