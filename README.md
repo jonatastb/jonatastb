@@ -13,7 +13,7 @@
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 </div>
-<div align="center">
+<div>
   <a href="https://github.com/jonatastb">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatastb&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
