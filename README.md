@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<h3 align="center"> My portfólio 💼</h3>
+<h3 align="center"> My Portfolio 💼</h3>
 <p align="center">
   <a href="https://jonatastb.github.io/portfolio-jonatas">
     jonatastb.github.io/portfolio-jonatas
